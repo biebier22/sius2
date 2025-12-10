@@ -158,7 +158,7 @@ body {
 
 <div class="app-shell">
     <header class="app-header">
-        <h1>Dashboard SIUS</h1>
+        <h1>Dashboard SIUS ver.2</h1>
         <p>Pilih peran Anda untuk masuk</p>
     </header>
 

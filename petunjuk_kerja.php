@@ -8,7 +8,7 @@
 <style>
 /* Style tambahan untuk konten panduan */
 .panduan-container {
-    padding: 21px;
+    padding: 20px;
 }
 
 .panduan-section {
