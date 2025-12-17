@@ -1,5 +1,5 @@
 <?php
-// File: petunjuk_kerja.php (Asumsi file ini akan dimuat di content area)
+// File: petunjuk_kerjaa.php (Asumsi file ini akan dimuat di content area)
 
 // Tidak perlu koneksi database jika ini adalah halaman statik panduan, 
 // tetapi kita tambahkan style container agar sesuai template
